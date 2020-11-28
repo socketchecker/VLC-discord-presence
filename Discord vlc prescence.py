@@ -49,7 +49,7 @@ def update():
     artist, title = old_song.split(' - ')
     details = title
     state = "by "+artist
-    large_image = ImageName
+    large_image = cepakas
     #Activity.started_at(pos)
     #Activity.end_in(length-pos)
     #print(details, start, large_image)
